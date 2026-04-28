@@ -1,4 +1,9 @@
-## Hi there 👋
+## Ornella Jeanette Gómez
+
+#Desarrolladora Jr. 
+
+Universidad Provincial de Ezeiza-
+TECNICATURA UNIVERSITARIA EN DESARROLLO DE SOFTWARE
 
 <!--
 **ornelalasoftware/ornelalasoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
