@@ -1,8 +1,8 @@
 ## Ornella Jeanette Gómez
 
-#Desarrolladora Jr. 
+✨✨#Desarrolladora Jr.✨✨
 
-Universidad Provincial de Ezeiza-
+-Universidad Provincial de Ezeiza-
 TECNICATURA UNIVERSITARIA EN DESARROLLO DE SOFTWARE
 
 <!--
